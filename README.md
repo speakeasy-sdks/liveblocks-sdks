@@ -1,6 +1,6 @@
 # LiveBlocks SDKs
 
-The Liveblocks API is organized around REST. With the Liveblocks API, you can authenticate requests, list and update rooms, list users, and more.
+Liveblocks is a set of APIs and tools that helps you create performant and reliable multiplayer experiences in minutes. The Liveblocks API is organized around REST. With the API, you can authenticate requests, list and update rooms, list users, and more.
 
 ## Available Operations
 
